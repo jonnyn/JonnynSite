@@ -4646,8 +4646,8 @@ gatsby-page-utils@^1.14.0:
     micromatch "^4.0.4"
 
 gatsby-plugin-mdx@^2.14.0:
-  version "2.14.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-mdx/-/gatsby-plugin-mdx-2.14.0.tgz#adbbe14820de493eb926ee490019c43df4c7d3f3"
+  version "2.14.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-mdx/-/gatsby-plugin-mdx-2.14.1.tgz#2f9c18b2f0020cde4c323c734532575b15315ff6"
   dependencies:
     "@babel/core" "^7.15.5"
     "@babel/generator" "^7.15.4"
